@@ -1,3 +1,5 @@
+#Lexical-Analyzer-and-Parser
+
 Lexical rules for the programming language Psi++ are as follows:
 1- Identifiers:
 • Maximum identifier size is 20 characters. If you use an identifier larger than that, the lexical analyzer issues an error message. • Psi++ language is not case sensitive and all the identifier names are standardized as upper case. • Identifiers start with an alphabetic character (a letter) and are composed of one or more letters,digits or_ (underscore) • Example Token: Identifier(my_var_1)
