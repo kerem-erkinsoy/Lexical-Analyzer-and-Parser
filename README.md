@@ -1,4 +1,4 @@
-#Lexical-Analyzer-and-Parser
+# Lexical-Analyzer-and-Parser
 
 Lexical rules for the programming language Psi++ are as follows:
 1- Identifiers:
